@@ -5,7 +5,7 @@
       "model": "zai-coding-plan/glm-4.7"
     },
     "build": {
-      "model": "zai-coding-plan/glm-4.7-flash"
+      "model": "zai-coding-plan/glm-4.5-air"
     }
   },
   "permission": {
